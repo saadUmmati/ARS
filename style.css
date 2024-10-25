@@ -315,7 +315,7 @@ body {
 .logo {
   font-family: var(--ff-oswald);
   color: var(--white);
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 .nav-open-btn {
